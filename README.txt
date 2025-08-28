@@ -2,7 +2,8 @@
 A simple python script to interface with your router and open new ports.
 
 > How do I use it?
-Edit 'ports.txt'. Enter a port number, press enter. Each port number should be on its own line.
+Download the release OR download "port tool.py." Make sure "ports.txt" can be found in the same directory path as this script.
+Edit 'ports.txt'. For each port you want to open, enter that port number on its own line.
 
 > Why would I use this?
-My router "forgets" its port configuration when it powers off. It powers off more often than I'd like. This script turns a process into a simple mouse click.
+My router "forgets" its port configuration when it powers off. This script turns a process into a simple mouse click.
